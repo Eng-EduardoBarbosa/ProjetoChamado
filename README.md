@@ -1,18 +1,48 @@
-## Getting Started
+# Sistema de Chamados
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Sistema de chamados desenvolvido em Java para gerenciamento de solicitações de suporte.
 
-## Folder Structure
+## 📌 Sobre o projeto
 
-The workspace contains two folders by default, where:
+O projeto simula um sistema simples de atendimento de chamados, permitindo cadastrar, consultar e alterar o status das solicitações.
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+Foi desenvolvido com foco na prática de conceitos de programação orientada a objetos e lógica de programação em Java.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## 🚀 Funcionalidades
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+- Criar chamados
+- Listar chamados
+- Buscar chamado por ID
+- Alterar status do chamado
+- Identificação automática por ID
+- Status: Aberto, Em andamento e Encerrado
 
-## Dependency Management
+## 🛠️ Tecnologias utilizadas
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+- Java
+- Programação Orientada a Objetos
+- ArrayList
+- Git e GitHub
+
+## 📚 Conceitos praticados
+
+- Classes e objetos
+- Encapsulamento
+- Construtores
+- Métodos e parâmetros
+- Getters
+- ArrayList
+- Estruturas condicionais
+- Estruturas de repetição
+- Switch
+- Entrada de dados com Scanner
+
+## ▶️ Como executar
+
+1. Clone o repositório.
+2. Abra o projeto em uma IDE compatível com Java.
+3. Execute o arquivo `App.java`.
+
+---
+
+Projeto desenvolvido para fins de estudo e desenvolvimento de habilidades em Java.
